@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I'm a mathematician that likes to (try to) solve physics problems with a computer. 
+
 <!--
 **Mayudie/Mayudie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
